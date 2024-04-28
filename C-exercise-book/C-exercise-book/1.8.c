@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main() {
+count_blanks() {
 	int c, b = 0, t = 0, nl = 0;
 
 	while ((c = getchar()) != EOF) {
