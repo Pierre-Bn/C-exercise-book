@@ -39,5 +39,8 @@
     <ClCompile Include="1.9.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+    <ClCompile Include="1.10.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

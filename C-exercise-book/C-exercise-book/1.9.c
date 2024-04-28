@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main() {
+blank_remover() {
 	int c, isLastBlank = 0, isBlank = 0;
 
 	while ((c = getchar()) != EOF) {
