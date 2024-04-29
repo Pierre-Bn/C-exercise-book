@@ -2,7 +2,7 @@
 
 #define SIZE 26
 
-main() {
+char_freq_histo() {
 	int c, isLastBlank = 0, isBlank = 0, currentSize = 0, maxFreq = 0;
 	int letters[SIZE];
 
