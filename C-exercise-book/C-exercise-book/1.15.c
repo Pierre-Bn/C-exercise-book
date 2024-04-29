@@ -3,7 +3,7 @@
 float celciusToFarenheit(float temp);
 float farenheitToCelcius(float temp);
 
-int main() {
+int temp_conv_functions() {
 	float celcius = 0.0;
 	printf("°F\t°C\n");
 	printf("----------------\n");
