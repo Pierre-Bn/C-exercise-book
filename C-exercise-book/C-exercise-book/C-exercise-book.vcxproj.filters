@@ -45,5 +45,8 @@
     <ClCompile Include="1.12.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+    <ClCompile Include="1.13.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

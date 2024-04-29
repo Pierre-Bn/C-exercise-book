@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main() {
+split_word_to_lines() {
 	int c, isLastBlank = 0, isBlank = 0;
 
 	while ((c = getchar()) != EOF) {
