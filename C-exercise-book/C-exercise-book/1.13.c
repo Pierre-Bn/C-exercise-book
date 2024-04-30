@@ -2,7 +2,7 @@
 
 #define SIZE 10
 
-word_length_freq_histo() {
+main() {
 	int c, isLastBlank = 0, isBlank = 0, currentSize = 0, maxFreq = 0;
 	int length[SIZE];
 

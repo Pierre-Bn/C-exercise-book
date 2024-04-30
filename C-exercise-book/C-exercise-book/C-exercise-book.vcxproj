@@ -127,20 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1.1.c" />
-    <ClCompile Include="1.10.c" />
-    <ClCompile Include="1.12.c" />
-    <ClCompile Include="1.13.c" />
-    <ClCompile Include="1.14.c" />
-    <ClCompile Include="1.15.c" />
-    <ClCompile Include="1.16.c" />
-    <ClCompile Include="1.2.c" />
-    <ClCompile Include="1.4.c" />
-    <ClCompile Include="1.5.c" />
-    <ClCompile Include="1.6.c" />
-    <ClCompile Include="1.7.c" />
-    <ClCompile Include="1.8.c" />
-    <ClCompile Include="1.9.c" />
+    <ClCompile Include="1.17.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

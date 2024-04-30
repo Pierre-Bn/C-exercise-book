@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-print_eof() {
+main() {
 	printf("signed decimal EOF : %d\n", EOF);
 	printf("unsigned decimal EOF : %u\n", EOF);
 	printf("octal EOF : %o\n", EOF);

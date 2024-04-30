@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-reverse_temp() {
+main() {
 	float f = 0.0;
 	printf("°C\t°F\n");
 	printf("----------------\n");

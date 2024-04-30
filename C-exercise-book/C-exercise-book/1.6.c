@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-testing_eof() {
+main() {
 	printf("use ctrl+z to trigger EOF in terminal\n");
 	int c;
 

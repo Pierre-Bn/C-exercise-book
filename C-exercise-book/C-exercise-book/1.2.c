@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-temp() {
+main() {
 	float celcius = 0.0;
 	printf("°F\t°C\n");
 	printf("----------------\n");
