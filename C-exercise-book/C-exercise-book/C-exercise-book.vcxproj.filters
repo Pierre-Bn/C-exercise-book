@@ -15,8 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1.19.C">
+    <ClCompile Include="1.20.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+    <ClCompile Include="util.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="1.21.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="util.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
