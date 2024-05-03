@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1.21.c" />
+    <ClCompile Include="1.22.c" />
     <ClCompile Include="util.c" />
   </ItemGroup>
   <ItemGroup>
